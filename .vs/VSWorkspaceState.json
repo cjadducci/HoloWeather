@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\js",
+    "\\modules",
+    "\\modules\\default",
+    "\\modules\\default\\currentweather"
   ],
+  "SelectedNode": "\\modules\\default\\currentweather\\currentweather.js",
   "PreviewInSolutionExplorer": false
 }
